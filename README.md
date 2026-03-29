@@ -37,13 +37,6 @@ This solves the equations for your missing variable, and provides you with the p
 5) When solving for q/I, v/l, B, or their respective directions, theta can be omitted and the program will successfully solve it.
 6) "mode"/"clear" button to exit. When typing in variable inputs, "clear" will clear the current line so please use the "mode" key here.
 7) Theta must be in degrees regardless of calculator mode.
-8) AXIS:
-     +y: North
-     +x: East
-     -y: South
-     -x: West
-     +z: Out of the page or counter clockwise
-     -z: Into the page, or clockwise
       
 
 
