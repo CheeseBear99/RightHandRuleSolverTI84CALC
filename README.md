@@ -6,7 +6,7 @@ This solves the equations for your missing variable, and provides you with the p
 
 **INSTALLATION STEPS:**
 
-1) Download the binary .8xp file of this program from the releases section of this repository or click this link to take you there:
+1) Download the binary "RHRSolvr.8xp" file of this program from the releases section of this repository or click this link to take you there:
   [https://github.com/CheeseBear99/RightHandRuleSolverTI84CALC/releases/tag/Release](url)
 
 2) Download TI-Connect CE from the texas instruments website.
