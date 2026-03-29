@@ -32,7 +32,7 @@ This solves the equations for your missing variable, and provides you with the p
 **IMPORTANT INFO**
 
 1) Use scientific notation in the following manner: q = **-1.6E-19** (where E is alpha+sin key)
-2) Directions are either: "+x" "+y" "+z" "-x" "-y" "-z". MAKE SURE to have the + or the -
+2) Directions are either: "+x" "+y" "+z" "-x" "-y" "-z", where north is +y (rest are inferrable) MAKE SURE to have the + or the -
 4) Leave the variable(s) you are solving for blank.
 5) When solving for q/I, v/l, B, or their respective directions, theta can be omitted and the program will successfully solve it.
 6) "mode"/"clear" button to exit. When typing in variable inputs, "clear" will clear the current line so please use the "mode" key here.
