@@ -42,8 +42,9 @@ This solves the equations for your missing variable, and provides you with the p
      +x: East
      -y: South
      -x: West
-     +z: Out of the page
-     -z: Into the page
+     +z: Out of the page or counter clockwise
+     -z: Into the page, or clockwise
+      
 
 
 THANK YOU FOR DOWNLOADING. PLEASE STAR MY REPOSITORY!!!!!!!!!!!!!
