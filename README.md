@@ -17,6 +17,9 @@ This solves the equations for your missing variable, and provides you with the p
 
 4) Connect your calculator to your computer and drag over .8xp files of this solver program, and of Artifice. Add both the programs to archive
    in your calculator.
+
+
+   <a href="https://github.com/CheeseBear99/RightHandRuleSolverTI84CALC/releases/tag/Release" target="_blank">My Link</a>
    
 
 **OPERATION STEPS:**
