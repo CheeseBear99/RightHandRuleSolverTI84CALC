@@ -1,6 +1,6 @@
 This is a solver for the physics right hand rule that can be downloaded and used on your TI-84 calculator!
 
-Two common equations where this is used are the equations Fb = qV X B or Fb = Il X B
+Two common equations where this is used are the equations Fb = qV X B or Fb = IL X B
 This solves the equations for your missing variable, and provides you with the proper direction.
 
 
