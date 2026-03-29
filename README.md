@@ -4,6 +4,9 @@ Two common equations where this is used are the equations Fb = qV X B or Fb = IL
 This solves the equations for your missing variable, and provides you with the proper direction.
 
 
+**IMPORTANT: MAKE SURE YOU READ THE OUTPUT ANSWERS PROPERLY AS THEY ARE IN SCIENTIFIC NOTATION. YOU MIGHT GET SOMETHING LIKE 5.200E1 WHICH IS ACTUALLY 52. BECAUSE IT MEANS 5.2 * 10^1. **
+
+
 **INSTALLATION STEPS:**
 
 1) Download the binary "RHRSolvr.8xp" file of this program from the releases section of this repository or click this link to take you there:
