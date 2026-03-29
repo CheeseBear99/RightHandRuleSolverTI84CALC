@@ -7,11 +7,11 @@ This solves the equations for your missing variable, and provides you with the p
 **INSTALLATION STEPS:**
 
 1) Download the binary "RHRSolvr.8xp" file of this program from the releases section of this repository or click this link to take you there:
-  [https://github.com/CheeseBear99/RightHandRuleSolverTI84CALC/releases/tag/Release](url)
+   https://github.com/CheeseBear99/RightHandRuleSolverTI84CALC/releases/tag/Release
 
 2) Download TI-Connect CE from the texas instruments website.
 
-3) Download the Artifice shell/jailbreak from here: [https://yvantt.github.io/arTIfiCE/](url)
+3) Download the Artifice shell/jailbreak from here: https://yvantt.github.io/arTIfiCE/
    This is required as this is an assembly based program, which are blocked from running on newer TI-84 operating systems.
    This program allows the running of assembly based programs in the TI-84 calculator.
 
