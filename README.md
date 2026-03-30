@@ -18,7 +18,7 @@ This solves the equations for your missing variable, and provides you with the p
    This is required as this is an assembly based program, which are blocked from running on newer TI-84 operating systems.
    This program allows the running of assembly based programs in the TI-84 calculator.
 
-4) Connect your calculator to your computer and drag over .8xp files of this solver program, and of Artifice. Add both the programs to archive
+4) Connect your calculator to your computer and drag over .8xp files of this solver program, and of Artifice. Add Artifice to archive and RHRSolvr to RAM
    in your calculator.
 
    
